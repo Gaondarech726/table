@@ -1,0 +1,32 @@
+.number:hover {
+    cursor: pointer;
+    background-color: tomato;
+    color: white;
+}
+
+.marshryt:hover {
+    cursor: pointer;
+    background-color: tomato;
+    color: white;
+}
+
+.time:hover {
+    cursor: pointer;
+    background-color: tomato;
+    color: white;
+}
+
+.schedule {
+    border-collapse: collapse;
+}
+
+.schedule th,
+.schedule td {
+    padding: 8px;
+    border: 1px solid #212121;
+}
+
+.th {
+    cursor: default;
+    background-color: bisque;
+}
